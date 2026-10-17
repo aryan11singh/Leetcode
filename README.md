@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/aryan11singh/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+## Stack
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/aryan11singh/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/aryan11singh/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/aryan11singh/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
